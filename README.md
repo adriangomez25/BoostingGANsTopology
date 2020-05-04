@@ -1,8 +1,8 @@
-# BoostingGANsTopology
-Improved Generative Models through Topological Data Analysis
+# Improved Generative Models through Topological Data Analysis
 
 
-Abstract: Generative Adversarial Networks have made signifcant progress in the
+# Abstract: 
+Generative Adversarial Networks have made signifcant progress in the
 field of image generation, but they have serious downsides including train-
 ing diffculties due to mode collapse. We propose two novel solutions based
 on persistence homology, a method from the field of topological data anal-
