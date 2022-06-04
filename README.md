@@ -3,7 +3,7 @@
 
 # Abstract: 
 Generative Adversarial Networks have made signifcant progress in the
-field of image generation, but they have serious downsides including train-
+field of image generation, but they have serious downsides including train
 ing diffculties due to mode collapse. We propose two novel solutions based
 on persistence homology, a method from the field of topological data anal-
 ysis, in an attempt to generate better quality images and reduce training
